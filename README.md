@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sajith22
-- 👀 I’m interested in learning Java , JavaScript , C ,C++, C#
+- 👀 I’m interested in learning Java , JavaScript , C ,C++, C# and Python
 - 🌱 I’m currently learning JavaScript (MERN Stack)
 - 💞️ I’m looking to collaborate on C or Java base projects
 - 📫 How to reach me sajithlk22@gmail.com
