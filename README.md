@@ -30,8 +30,8 @@ I'm open to teaming up on C or Java-based projects, open-source contributions, o
 
 ## 📫 How to Reach Me
 - Email: [sajithlk22@gmail.com](mailto:sajithlk22@gmail.com)
-- LinkedIn: [Add your LinkedIn if available]
-- Twitter/X: [Add if you have one]
+- LinkedIn: https://www.linkedin.com/in/sajithwickramasinghe
+- Twitter/X: https://x.com/SajithTharaka7
 
 ## 😄 Pronouns
 He/Him
