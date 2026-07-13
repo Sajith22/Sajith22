@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sajith Wickramasinghe (@Sajith22)
 
-I'm a 4th-year Software Engineering student from Sri Lanka, currently interning as a **Backend Engineer (NestJS)** at CodeSys (Pvt) Ltd. I'm passionate about building efficient, scalable applications and enjoy exploring new technologies.
+I'm a 4th-year Software Engineering student from Sri Lanka, currently interning as a **Intern Backend Engineer (NestJS)** at CodeSys (Pvt) Ltd. I'm passionate about building efficient, scalable applications and enjoy exploring new technologies.
 
 ## 👀 Interests
 
