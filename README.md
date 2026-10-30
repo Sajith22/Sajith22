@@ -21,10 +21,10 @@ Here are some of my recent works:
 
 - **[BidForge](https://github.com/Sajith22/Product_Bidding_app)** *(NestJS · Flutter · React · Firebase · Railway)* — A real-time auction platform with a NestJS backend API, Flutter mobile app, and React admin dashboard. Features live bidding, role-based access control, and cloud deployment on Railway.
 - **[UniVax](https://github.com/JanishaMadunith/UniVax)** *(Express.js · MongoDB · React · Tailwind CSS)* — A university immunization tracking system with JWT authentication, RBAC, automated email notifications via Brevo, and a full-stack web interface.
-- **[Calendar Project](https://github.com/Sajith22/CalenderProject)** — A calendar app built with HTML, CSS, JavaScript, and PHP.
+- Collaborating on **[Mind Matters Project](https://github.com/Tiyani-Gurusinghe/MindMattersProject)** — A JavaScript-driven mental health initiative.
 - **[Intro to Backend](https://github.com/Sajith22/Intro-to-Backend)** — Early exploration of backend development and DevOps integration with JavaScript.
 - **[DiTec Final Project](https://github.com/Sajith22/DiTecFinalProject1)** — A C#-based desktop application.
-- Collaborating on **[Mind Matters Project](https://github.com/Tiyani-Gurusinghe/MindMattersProject)** — A JavaScript-driven mental health initiative.
+
 
 Check out my [pinned repositories](https://github.com/Sajith22) for more!
 
